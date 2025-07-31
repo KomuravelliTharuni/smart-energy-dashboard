@@ -33,7 +33,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # 3. Load Dataset
-df = pd.read_csv("C:\Smart_Energy_Consumption\energy_data.csv")
+df = pd.read_csv("energy_data.csv")
+
 
 # 4. Title
 st.title("⚡ Smart Energy Consumption Dashboard")
