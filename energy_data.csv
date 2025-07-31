@@ -1,0 +1,11 @@
+Household_ID,Region,Monthly_Income_INR,Appliance_AC,Appliance_Fan,Appliance_Light,Fridge,Washing_Machine,EV_Charging,Monthly_Energy_Consumption_kWh
+1,North,30000,1,3,6,1,0,0,120
+2,South,45000,2,4,8,1,1,1,210
+3,East,25000,0,2,5,1,0,0,90
+4,West,60000,3,5,10,2,1,1,320
+5,South,40000,1,3,7,1,0,0,150
+6,North,55000,2,4,9,1,1,0,250
+7,West,47000,1,3,6,2,1,1,230
+8,East,31000,0,2,5,1,0,0,110
+9,South,38000,1,4,7,1,1,0,180
+10,North,29000,0,2,4,1,0,0,100
